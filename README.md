@@ -11,7 +11,7 @@ Jorge M. Taramón (jorge.taramongomez.2014@live.rhul.ac.uk), Jason P. Morgan, Ch
 - Algorithm suitable for adaptive mesh refinement
 
 ### How to cite and background information:
-
+Taramón, J.M., Morgan, J.P., Shi, C., Hasenclever, J., 2019. Generation of unstructured meshes in 2-D, 3-D, and spherical geometries with embedded high-resolution sub-regions. Computers & Geosciences, 133, . https://doi.org/10.1016/j.cageo.2019.104324
 
 ### Running this code for the first time:
 
