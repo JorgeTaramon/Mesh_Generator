@@ -22,13 +22,13 @@ Taramón, J.M., Morgan, J.P., Shi, C., Hasenclever, J., 2019. Generation of unst
     https://sourceforge.net/projects/milamin/files/mutils-0.4-2.zip
 4. Install it running install.m (follow the instructions that will appear in the Command Window)
 5. In order to set the path for mutils
-    5.1. Write pctconfig in the Command Window
-    5.2. Open SETUP_TEST/addpaths_mutils
-    5.3. Create a new case for your computer:
-	- Introduce the hostname you obtained in 5.1 as a new ‘case’, e.g., case 'fpdc462'
-	- Introduce the path for the folder mutils in ‘path2mutils’
+    - 5.1. Write pctconfig in the Command Window
+    - 5.2. Open SETUP_TEST/addpaths_mutils
+    - 5.3. Create a new case for your computer:
+        - Enter the hostname you obtained in 5.1 as a new ‘case’, e.g., case 'fpdc462'
+        - Enter the path for the folder mutils in ‘path2mutils’
 6. In order to set the OUTPUT folder in your computer:
-    6.1. Open SETUP_TEST/data_storage_2d.m
-    6.2. Create a new case for your computer:
-        - Introduce the hostname you obtained in 5.1 as a new ‘case’, e.g., case 'fpdc462'
-        - Introduce the path to save the output data in ‘path2data’
+    - 6.1. Open SETUP_TEST/data_storage_2d.m
+    - 6.2. Create a new case for your computer:
+        - Enter the hostname you obtained in 5.1 as a new ‘case’, e.g., case 'fpdc462'
+        - Enter the path to save the output data in ‘path2data’
