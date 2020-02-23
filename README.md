@@ -17,10 +17,10 @@ Taramón, J.M., Morgan, J.P., Shi, C., Hasenclever, J., 2019. Generation of unst
 
 1. Download "SuiteSparse" from:
     http://faculty.cse.tamu.edu/davis/SuiteSparse/SuiteSparse-4.0.2.tar.gz
-2. Install it running SuiteSparse_install.m
+2. Install it by running SuiteSparse_install.m
 3. Download mutils-0.4-2 from:
     https://sourceforge.net/projects/milamin/files/mutils-0.4-2.zip
-4. Install it running install.m (follow the instructions that will appear in the Command Window)
+4. Install it by running install.m (follow the instructions that will appear in the Command Window)
 5. In order to set the path for mutils
     - 5.1. Write pctconfig in the Command Window
     - 5.2. Open SETUP_TEST/addpaths_mutils
