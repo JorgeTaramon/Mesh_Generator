@@ -1,7 +1,7 @@
 # Generation of unstructured meshes in 2-D, 3-D, and spherical geometries with embedded high-resolution sub-regions
 
 ### Authors:
-Jorge M. Taramón (jorge.taramongomez.2014@live.rhul.ac.uk), Jason P. Morgan, Chao Shi, Jörg Hasenclever
+Jorge M. Taramón (jorge.taramongomez.2014@alumni.rhul.ac.uk), Jason P. Morgan, Chao Shi, Jörg Hasenclever
 
 ### Description:
 - Mesh generator for Cartesian 2-D/3-D and Earth-appropriate spherical coordinates
